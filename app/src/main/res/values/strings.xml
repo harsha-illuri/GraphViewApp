@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GraphView App</string>
+    <string name="p_id">Patient ID</string>
+    <string name="p_age">"Age     "</string>
+    <string name="p_name">Patient Name</string>
+</resources>
